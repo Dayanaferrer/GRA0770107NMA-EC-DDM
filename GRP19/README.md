@@ -2,6 +2,8 @@
 
 Fazem parte do desenvolvimento deste projeto os membros:
 
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
+
+* Dayana Ferreira - <dayanaferreira2@gmail.com>
+* Joao Henrique - <joao.henrique0902@gmail.com>
+* Maria Beatriz - <mbeatriz.mbia@gmail.com>
+* Jonathan Santos - <email@dominio.com>
